@@ -33,3 +33,6 @@
 
 #Visual Studio Code
 .vscode
+
+#Jupyter notebook
+.ipynb_checkpoints
